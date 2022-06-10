@@ -1,0 +1,640 @@
+[
+  {
+    "name": "Accio",
+    "type": "charm",
+    "effect": "Summons an object",
+  	"counter-spell": "(Anti-theft charm)",
+    "id": "accio"
+	},
+  {
+    "name": "Aguamenti",
+    "type": "charm",
+    "effect": "Shoots water from wand",
+  	"counter-spell": null,
+    "id": "aguamenti"
+	},
+  {
+    "name": "Alohomora",
+    "type": "charm",
+    "effect": "Opens locked objects",
+    "counter-spell": "Colloportus",
+    "id": "alohomora"
+	},
+  {
+    "name": "Anapneo",
+    "type": "spell",
+    "effect": "Clears the target's airway",
+  	"counter-spell": null,
+    "id": "anapneo"
+	},
+  {
+    "name": "Aparecium",
+    "type": "spell",
+    "effect": "Reveals invisible ink",
+  	"counter-spell": null,
+    "id": "aparecium"
+	},
+  {
+    "name": "Avada Kedavra",
+    "type": "curse",
+    "effect": "Murders opponent",
+  	"counter-spell": null,
+    "id": "avada-kedavra"
+	},
+  {
+    "name": "Avifors",
+    "type": "charm",
+    "effect": "Turns small objects into birds",
+  	"counter-spell": null,
+    "id": "avifors"
+	},
+  {
+    "name": "Avis",
+    "type": "spell",
+    "effect": "Launches birds from your wand",
+  	"counter-spell": null,
+    "id": "avis"
+	},
+  {
+    "name": "Cave Inimicum",
+    "type": "spell",
+    "effect": "Strengthens an enclosure from enemies",
+  	"counter-spell": null,
+    "id": "cave-inimicum"
+	},
+  {
+    "name": "Colloportus",
+    "type": "spell",
+    "effect": "Magically locks door",
+  	"counter-spell": "Alohomora",
+    "id": "colloportus"
+	},
+  {
+    "name": "Confringo",
+    "type": "curse",
+    "effect": "Explodes flames on target",
+  	"counter-spell": null,
+    "id": "confringo"
+	},
+  {
+    "name": "Confundus",
+    "type": "charm",
+    "effect": "Confuses opponent",
+  	"counter-spell": null,
+    "id": "confundus"
+	},
+  {
+    "name": "Conjunctivitis",
+    "type": "curse",
+    "effect": "Damages opponents eyesight",
+  	"counter-spell": null,
+    "id": "conjunctivitis"
+	},
+  {
+    "name": "Crucio",
+    "type": "curse",
+    "effect": "Tortures opponent",
+  	"counter-spell": null,
+    "id": "crucio"
+	},
+  {
+    "name": "Defodio",
+    "type": "spell",
+    "effect": "Digs out materials",
+  	"counter-spell": null,
+    "id": "Defodio"
+	},
+  {
+    "name": "Deletrius",
+    "type": "spell",
+    "effect": "Counters `Prior Incatato`",
+  	"counter-spell": "Prior Incatato",
+    "id": "deletrius"
+	},
+  {
+    "name": "Densaugeo",
+    "type": "spell",
+    "effect": "Enlarges Teeth",
+  	"counter-spell": null,
+    "id": "densaugeo"
+	},
+  {
+    "name": "Deprimo",
+    "type": "spell",
+    "effect": "Blasts holes through walls and floors",
+  	"counter-spell": null,
+    "id": "deprimo"
+	},
+  {
+    "name": "Diffindo",
+    "type": "spell",
+    "effect": "Splits seams",
+  	"counter-spell": null,
+    "id": "diffindo"
+	},
+  {
+    "name": "Dissendium",
+    "type": "spell",
+    "effect": "Opens `One eyed witch` hump",
+  	"counter-spell": null,
+    "id": "dissendium"
+	},
+  {
+    "name": "Duro",
+    "type": "spell",
+    "effect": "Makes objects hard",
+  	"counter-spell": null,
+    "id": "duro"
+	},
+  {
+    "name": "Engorgio",
+    "type": "charm",
+    "effect": "Enlarges and item",
+  	"counter-spell": "Reducio",
+    "id": "engorigo"
+	},
+  {
+    "name": "Ennervate",
+    "type": "curse",
+    "effect": "Counters stupefy",
+  	"counter-spell": "Stupefy",
+    "id": "ennervate"
+	},
+  {
+    "name": "Episkey",
+    "type": "curse",
+    "effect": "Heals minor injuries",
+  	"counter-spell": null,
+    "id": "episkey"
+	},
+  {
+    "name": "Erecto",
+    "type": "spell",
+    "effect": "Erects things",
+  	"counter-spell": null,
+    "id": "erecto"
+	},
+  {
+    "name": "Expecto Patronum",
+    "type": "charm",
+    "effect": "Creates a Patronus",
+  	"counter-spell": null,
+    "id": "expecto-patronum"
+	},
+  {
+    "name": "Expelliarmus",
+    "type": "charm",
+    "effect": "Disarms your opponent",
+  	"counter-spell": null,
+    "id": "expelliarmus"
+	},
+  {
+    "name": "Expulso",
+    "type": "spell",
+    "effect": "Makes objects explode",
+  	"counter-spell": null,
+    "id": "expulso"
+	},
+  {
+    "name": "Evanesco",
+    "type": "spell",
+    "effect": "Makes objects vanish",
+  	"counter-spell": null,
+    "id": "evanesco"
+	},
+  {
+    "name": "Ferula",
+    "type": "spell",
+    "effect": "Creates bandages",
+  	"counter-spell": null,
+    "id": "ferula"
+	},
+
+  {
+    "name": "Fidelius",
+    "type": "charm",
+    "effect": "Hides a secret within someone",
+  	"counter-spell": null,
+    "id": "fidelius"
+	},
+  {
+    "name": "Finite Incantatum",
+    "type": "spell",
+    "effect": "Stops any current spells",
+  	"counter-spell": null,
+    "id": "finite-incantatum"
+	},
+  {
+    "name": "Flagrate",
+    "type": "spell",
+    "effect": "Allows user to write on objects",
+  	"counter-spell": null,
+    "id": "flagrate"
+	},
+  {
+    "name": "Flipendo",
+    "type": "jinx",
+    "effect": "Knocks an object backwards",
+  	"counter-spell": null,
+    "id": "flipendo"
+	},
+  {
+    "name": "Furnunculus",
+    "type": "curse",
+    "effect": "Produces boils on opponent",
+  	"counter-spell": null,
+    "id": "furnunculus"
+	},
+  {
+    "name": "Geminio",
+    "type": "spell",
+    "effect": "Duplicates an Object",
+  	"counter-spell": null,
+    "id": "geminio"
+	},
+  {
+    "name": "Glisseo",
+    "type": "spell",
+    "effect": "Turns stairs into ramps",
+  	"counter-spell": null,
+    "id": "glisseo"
+	},
+  {
+    "name": "Homenum Revelio",
+    "type": "spell",
+    "effect": "Reveals humans nearby",
+  	"counter-spell": null,
+    "id": "homenum-revelio"
+	},
+  {
+    "name": "Immobulus",
+    "type": "charm",
+    "effect": "Renders target immobile.",
+  	"counter-spell": null,
+    "id": "immobulus"
+	},
+  {
+    "name": "Impedimenta",
+    "type": "charm",
+    "effect": "Slows an advancing object",
+  	"counter-spell": null,
+    "id": "impedimenta"
+	},
+  {
+    "name": "Imperio",
+    "type": "curse",
+    "effect": "Controls a person – unforgivable",
+  	"counter-spell": null,
+    "id": "imperio"
+	},
+  {
+    "name": "Impervius",
+    "type": "charm",
+    "effect": "Makes an object repel water",
+  	"counter-spell": null,
+    "id": "impervius"
+	},
+  {
+    "name": "Incarcerous",
+    "type": "spell",
+    "effect": "Ties someone up",
+  	"counter-spell": null,
+    "id": "incarcerous"
+	},
+  {
+    "name": "Incendio",
+    "type": "spell",
+    "effect": "Starts a fire",
+  	"counter-spell": null,
+    "id": "incendio"
+	},
+  {
+    "name": "Langlock",
+    "type": "spell",
+    "effect": "Glues opponent's tongue to roof of mouth",
+  	"counter-spell": null,
+    "id": "langlock"
+	},
+  {
+    "name": "Legilimens",
+    "type": "spell",
+    "effect": "Allows the caster to delve into the mind of the victim",
+  	"counter-spell": null,
+    "id": "legilimens"
+	},
+  {
+    "name": "Levicorpus",
+    "type": "spell",
+    "effect": "Hangs victim upside down by feet",
+  	"counter-spell": "Liberacorpus",
+    "id": "levicorpus"
+	},
+  {
+    "name": "Liberacorpus",
+    "type": "spell",
+    "effect": "Counters Levicorpus",
+  	"counter-spell": "Levicorpus",
+    "id": "liberacorpus"
+	},
+  {
+    "name": "Locomotor Mortis",
+    "type": "curse",
+    "effect": "Locks opponents legs",
+  	"counter-spell": null,
+    "id": "locomotor-mortis"
+	},
+  {
+    "name": "Lumos",
+    "type": "spell",
+    "effect": "Creates light at wand tip",
+  	"counter-spell": "Nox",
+    "id": "lumos"
+	},
+  {
+    "name": "Meteolojinx Recanto",
+    "type": "spell",
+    "effect": "Causes weather effect spells to stop",
+  	"counter-spell": null,
+    "id": "meteolojinx-recanto"
+	},
+  {
+    "name": "Mobiliarbus",
+    "type": "charm",
+    "effect": "Moves objects with wand",
+  	"counter-spell": null,
+    "id": "mobiliarbus"
+	},
+  {
+    "name": "Mobilicorpus",
+    "type": "spell",
+    "effect": "Moves unconscious bodies",
+  	"counter-spell": null,
+    "id": "mobilicorpus"
+	},
+  {
+    "name": "Morsmorde",
+    "type": "spell",
+    "effect": "Conjures the Dark Mark",
+  	"counter-spell": null,
+    "id": "morsmorde"
+	},
+  {
+    "name": "Muffliato",
+    "type": "spell",
+    "effect": "Prevents nearby people from listening to conversations",
+  	"counter-spell": null,
+    "id": "muffliato"
+	},
+  {
+    "name": "Nox",
+    "type": "spell",
+    "effect": "Counters Lumos",
+  	"counter-spell": "Lumos",
+    "id": "nox"
+	},
+  {
+    "name": "Obliviate",
+    "type": "charm",
+    "effect": "Erases memories",
+  	"counter-spell": null,
+    "id": "obliviate"
+	},
+  {
+    "name": "Obscuro",
+    "type": "spell",
+    "effect": "Blindfolds the victim",
+  	"counter-spell": null,
+    "id": "obscuro"
+	},
+  {
+    "name": "Oppugno",
+    "type": "spell",
+    "effect": "Makes conjured items attack",
+  	"counter-spell": null,
+    "id": "oppugno"
+	},
+  {
+    "name": "Orchideous",
+    "type": "spell",
+    "effect": "Conjures a bunch of flowers",
+  	"counter-spell": null,
+    "id": "orchideous"
+	},
+  {
+    "name": "Pack",
+    "type": "spell",
+    "effect": "Packs a trunk (suitcase)",
+  	"counter-spell": null,
+    "id": "pack"
+	},
+  {
+    "name": "Petrificus Totalus",
+    "type": "spell",
+    "effect": "Binds body – unforgivable",
+  	"counter-spell": null,
+    "id": "petrificus-totalus"
+	},
+  {
+    "name": "Piertotum Locomotor",
+    "type": "spell",
+    "effect": "Animates statues and armor suits",
+  	"counter-spell": null,
+    "id": "piertotum-locomotor"
+	},
+  {
+    "name": "Point Me",
+    "type": "charm",
+    "effect": "Makes wand act like a compass",
+  	"counter-spell": null,
+    "id": "point-me"
+	},
+  {
+    "name": "Priori Incantatum",
+    "type": "spell",
+    "effect": "Echoes most recent spells, result when brother wands duel",
+  	"counter-spell": null,
+    "id": "priori-incantatum"
+	},
+  {
+    "name": "Prior Incantato",
+    "type": "spell",
+    "effect": "Reveals a wands last spell / cast",
+  	"counter-spell": "Deletrius",
+    "id": "priori-incantato"
+	},
+  {
+    "name": "Protego",
+    "type": "charm",
+    "effect": "Causes spells to reflect back to the sender. ",
+  	"counter-spell": null,
+    "id": "protego"
+	},
+  {
+    "name": "Protego Horribilis",
+    "type": "spell",
+    "effect": "Protects one from Dark Magic",
+  	"counter-spell": null,
+    "id": "protego-horribilis"
+	},
+  {
+    "name": "Protego Totalum",
+    "type": "spell",
+    "effect": "Protects area",
+  	"counter-spell": null,
+    "id": "protego-totalum"
+	},
+  {
+    "name": "Quietus",
+    "type": "spell",
+    "effect": "Counters Sonorus",
+  	"counter-spell": "Sonorus",
+    "id": "quietus"
+	},
+  {
+    "name": "Reducio",
+    "type": "spell",
+    "effect": "Returns items to original size. Counters Engorgio",
+  	"counter-spell": "Engorio",
+    "id": "reducio"
+	},
+  {
+    "name": "Reducto",
+    "type": "spell",
+    "effect": "Blasts solid objects aside",
+  	"counter-spell": null,
+    "id": "reducto"
+	},
+  {
+    "name": "Relashio",
+    "type": "spell",
+    "effect": "Releases user from binding",
+  	"counter-spell": null,
+    "id": "relashio"
+	},
+  {
+    "name": "Rennervate",
+    "type": "spell",
+    "effect": "Cures unconsciousness",
+  	"counter-spell": "Stupefy",
+    "id": "rennervate"
+	},
+  {
+    "name": "Reparifarge",
+    "type": "charm",
+    "effect": "Untransigures an object",
+  	"counter-spell": null,
+    "id": "reparifarge"
+  },
+  {
+    "name": "Reparo",
+    "type": "spell",
+    "effect": "Repairs Things",
+  	"counter-spell": null,
+    "id": "reparo"
+	},
+  {
+    "name": "Repello Muggletum",
+    "type": "spell",
+    "effect": "Keeps Muggles away",
+  	"counter-spell": null,
+    "id": "repello-muggletum"
+	},
+  {
+    "name": "Rictusempra",
+    "type": "charm",
+    "effect": "Tickles opponent",
+  	"counter-spell": null,
+    "id": "rictusempra"
+	},
+  {
+    "name": "Riddikulus",
+    "type": "spell",
+    "effect": "Turns boggart into ridiculous form so you can laugh it away",
+  	"counter-spell": null,
+    "id": "riddikulus"
+	},
+  {
+    "name": "Salvio Hexia",
+    "type": "spell",
+    "effect": "Protects against hexes",
+  	"counter-spell": null,
+    "id": "salvio-hexia"
+	},
+  {
+    "name": "Scruge",
+    "type": "charm",
+    "effect": "Destroys ectoplasm (remains of ghosts)",
+  	"counter-spell": null,
+    "id": "scruge"
+	},
+  {
+    "name": "Sectumsempra",
+    "type": "spell",
+    "effect": "Causes wounds as if slashed by a sword",
+  	"counter-spell": null,
+    "id": "sectumsempra"
+	},
+  {
+    "name": "Serpensortia",
+    "type": "spell",
+    "effect": "Produces Snake",
+  	"counter-spell": null,
+    "id": "serpensortia"
+	},
+  {
+    "name": "Silencio",
+    "type": "spell",
+    "effect": "Silences victim",
+  	"counter-spell": null,
+    "id": "silencio"
+	},
+  {
+    "name": "Sonorus",
+    "type": "spell",
+    "effect": "Amplifies voice",
+  	"counter-spell": "Quietus",
+    "id": "sonorus"
+	},
+  {
+    "name": "Specialis Revelio",
+    "type": "spell",
+    "effect": "Reveals Hidden secrets or magical properties",
+  	"counter-spell": null,
+    "id": "specialis-revelio"
+	},
+  {
+    "name": "Stupefy",
+    "type": "spell",
+    "effect": "Knocks out opponent",
+  	"counter-spell": "Rennervate",
+    "id": "stupefy"
+	},
+  {
+    "name": "Tarantallegra",
+    "type": "spell",
+    "effect": "Forces opponent to dance",
+  	"counter-spell": null,
+    "id": "tarantallegra"
+	},
+  {
+    "name": "Tergeo",
+    "type": "spell",
+    "effect": "Cleans up messes",
+  	"counter-spell": null,
+    "id": "tergeo"
+	},
+  {
+    "name": "Waddiwasi",
+    "type": "spell",
+    "effect": "Unsticks an object",
+  	"counter-spell": null,
+    "id": "waddiwasi"
+	},
+  {
+    "name": "Wingardium Leviosa",
+    "type": "charm",
+    "effect": "Makes on object fly",
+  	"counter-spell": null,
+    "id": "leviosa"
+  }
+]
